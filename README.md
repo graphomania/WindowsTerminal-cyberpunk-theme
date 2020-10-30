@@ -4,6 +4,12 @@ Theme for Windows Terminal, originally took from https://windowsterminalthemes.d
 
 I took care about color matching, so it's should be more comfortable to use.
 
+![alt text](https://github.com/graphomania/WindowsTerminal-cyberpunk-theme/blob/main/colortest-16.png)
+
+
+C o d e:
+
+
     {
         "name": "cyberpunk",
         "black": "#778899",
